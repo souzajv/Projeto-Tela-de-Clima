@@ -11,8 +11,8 @@ Este projeto é uma aplicação estática de visualização do clima, desenvolvi
 ## 📸 Screenshots
 
 <div align="center">
-    <img src="./assets/final-desktop.png" alt="imagem final do projeto versão desktop" />
-    <img src="./assets/final-mobile.png" alt="imagem final do projeto versão mobile" />
+    <img src="./assets/final-desktop.png" alt="imagem final do projeto versão desktop" " />
+    <img src="./assets/final-mobile.png" alt="imagem final do projeto versão mobile" style="width: auto; height: 400px;" />
 </div>
 
 ## 🚀 Funcionalidades
